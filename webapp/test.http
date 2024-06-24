@@ -1,0 +1,17 @@
+GET http://localhost:8080/users
+Content-Type: application/json
+
+###
+
+GET http://localhost:8080/door
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/close
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/open
+Content-Type: application/json
